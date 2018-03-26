@@ -1,6 +1,7 @@
 # NextAuth Example
 
 ## About NextAuth Example
+![](https://github.com/SMWARREN/SteemConnect-Next-Auth-Micro-Service/blob/master/ss/2.png)
 
 This is an example of how to use the [NextAuth](https://www.npmjs.com/package/next-auth) module with [Sequelizejs](http://docs.sequelizejs.com/) and [SteemConnect](https://github.com/steemit/steemconnect)
 
